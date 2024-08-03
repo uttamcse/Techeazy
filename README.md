@@ -35,7 +35,7 @@ Start Application mvn spring-boot:run
 # Access the H2 console
 - URL: 'http://localhost:8758/h2-console'
 - JDBC URL: 'jdbc:h2:mem:testdb'
-- Username: sa
+- Username: uttamcseau
 - Password: password or esle you can leave this part
 # API Endpoints
 - For Student
@@ -49,24 +49,3 @@ Start Application mvn spring-boot:run
 # Running the Application
  mvn spring-boot: run
 
-# Note:
-Spring security part code is not working properly that's why i am not adding those part of code.
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
